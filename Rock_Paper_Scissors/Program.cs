@@ -12,7 +12,9 @@ namespace Rock_Paper_Scissors
         {                     
             Start.StartGame();
             
-            Console.ReadLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
         }    
     }
 }
